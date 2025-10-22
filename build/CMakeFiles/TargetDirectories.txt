@@ -1,0 +1,4 @@
+/home/kyst/oop/lab3/build/CMakeFiles/figures_main.dir
+/home/kyst/oop/lab3/build/CMakeFiles/figures_tests.dir
+/home/kyst/oop/lab3/build/CMakeFiles/edit_cache.dir
+/home/kyst/oop/lab3/build/CMakeFiles/rebuild_cache.dir

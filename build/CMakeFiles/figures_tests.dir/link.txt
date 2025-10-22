@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/figures_tests.dir/tests/tests.cpp.o CMakeFiles/figures_tests.dir/src/figure.cpp.o CMakeFiles/figures_tests.dir/src/rhombus.cpp.o CMakeFiles/figures_tests.dir/src/fugl.cpp.o CMakeFiles/figures_tests.dir/src/sugl.cpp.o CMakeFiles/figures_tests.dir/src/arr.cpp.o -o figures_tests  /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a 
